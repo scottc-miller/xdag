@@ -1,0 +1,140 @@
+2018-01-24 00:30:05  dnet T11.231-T13.714, running as daemon.
+2018-01-24 00:30:05  dnet gc: start to collect
+2018-01-24 00:30:05  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:30:05  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:30:05  Current connections:
+2018-01-24 00:30:05  Current streams:
+2018-01-24 00:31:02  dnet T11.231-T13.714, running as daemon.
+2018-01-24 00:31:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:31:02  Current connections:
+2018-01-24 00:31:02  Current streams:
+2018-01-24 00:31:02  dnet gc: start to collect
+2018-01-24 00:31:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:32:02  dnet gc: start to collect
+2018-01-24 00:32:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:33:02  dnet gc: start to collect
+2018-01-24 00:33:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:34:02  dnet gc: start to collect
+2018-01-24 00:34:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:35:02  dnet gc: start to collect
+2018-01-24 00:35:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:36:02  dnet gc: start to collect
+2018-01-24 00:36:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:36:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:36:02  Current connections:
+2018-01-24 00:36:02  Current streams:
+2018-01-24 00:37:02  dnet gc: start to collect
+2018-01-24 00:37:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:38:02  dnet gc: start to collect
+2018-01-24 00:38:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:39:02  dnet gc: start to collect
+2018-01-24 00:39:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:40:02  dnet gc: start to collect
+2018-01-24 00:40:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:41:02  dnet gc: start to collect
+2018-01-24 00:41:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:41:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:41:02  Current connections:
+2018-01-24 00:41:02  Current streams:
+2018-01-24 00:42:02  dnet gc: start to collect
+2018-01-24 00:42:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:43:02  dnet gc: start to collect
+2018-01-24 00:43:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:44:02  dnet gc: start to collect
+2018-01-24 00:44:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:45:02  dnet gc: start to collect
+2018-01-24 00:45:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:46:02  dnet gc: start to collect
+2018-01-24 00:46:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:46:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:46:02  Current connections:
+2018-01-24 00:46:02  Current streams:
+2018-01-24 00:47:02  dnet gc: start to collect
+2018-01-24 00:47:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:48:02  dnet gc: start to collect
+2018-01-24 00:48:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:49:02  dnet gc: start to collect
+2018-01-24 00:49:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:50:02  dnet gc: start to collect
+2018-01-24 00:50:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:51:02  dnet gc: start to collect
+2018-01-24 00:51:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:51:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:51:02  Current connections:
+2018-01-24 00:51:02  Current streams:
+2018-01-24 00:52:02  dnet gc: start to collect
+2018-01-24 00:52:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:53:02  dnet gc: start to collect
+2018-01-24 00:53:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:54:02  dnet gc: start to collect
+2018-01-24 00:54:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:55:02  dnet gc: start to collect
+2018-01-24 00:55:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:56:02  dnet gc: start to collect
+2018-01-24 00:56:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:56:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 00:56:02  Current connections:
+2018-01-24 00:56:02  Current streams:
+2018-01-24 00:57:02  dnet gc: start to collect
+2018-01-24 00:57:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:58:02  dnet gc: start to collect
+2018-01-24 00:58:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 00:59:02  dnet gc: start to collect
+2018-01-24 00:59:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:00:02  dnet gc: start to collect
+2018-01-24 01:00:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:01:02  dnet gc: start to collect
+2018-01-24 01:01:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:01:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 01:01:02  Current connections:
+2018-01-24 01:01:02  Current streams:
+2018-01-24 01:02:02  dnet gc: start to collect
+2018-01-24 01:02:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:03:02  dnet gc: start to collect
+2018-01-24 01:03:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:04:02  dnet gc: start to collect
+2018-01-24 01:04:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:05:02  dnet gc: start to collect
+2018-01-24 01:05:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:06:02  dnet gc: start to collect
+2018-01-24 01:06:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:06:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 01:06:02  Current connections:
+2018-01-24 01:06:02  Current streams:
+2018-01-24 01:07:02  dnet gc: start to collect
+2018-01-24 01:07:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:08:02  dnet gc: start to collect
+2018-01-24 01:08:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:09:02  dnet gc: start to collect
+2018-01-24 01:09:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:10:02  dnet gc: start to collect
+2018-01-24 01:10:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:11:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 01:11:02  Current connections:
+2018-01-24 01:11:02  Current streams:
+2018-01-24 01:11:02  dnet gc: start to collect
+2018-01-24 01:11:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:12:02  dnet gc: start to collect
+2018-01-24 01:12:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:13:02  dnet gc: start to collect
+2018-01-24 01:13:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:14:02  dnet gc: start to collect
+2018-01-24 01:14:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:15:02  dnet gc: start to collect
+2018-01-24 01:15:02  dnet gc: 2 threads total, 0 collected
+2018-01-24 01:16:02  Active hosts:
+  0. FA454B33                   0 sec, T13.847, local     trust  127.0.0.1:0
+2018-01-24 01:16:02  Current connections:
+2018-01-24 01:16:02  Current streams:
+2018-01-24 01:16:02  dnet gc: start to collect
+2018-01-24 01:16:02  dnet gc: 2 threads total, 0 collected
