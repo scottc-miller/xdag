@@ -1,0 +1,109 @@
+
+sudo apt-get update && apt-get install git gcc libssl-dev build-essential git
+sudo apt install unzip
+
+cd
+
+//upload a zip file to github with these 3 files from desktop miner:
+//	dnet_key.dat, wallet.dat, source folder
+//	MAKE SURE THIS IS A PRIVATE REPO
+//	OTHER WALLET INFO CAN BE STOLEN
+git clone https://github.com/scottc-miller/xdag-backups.git
+git clone https://github.com/cheatoshin/xdag.git
+cd ./xdag/cheatcoin
+make
+
+cd
+sudo unzip ./xdag-backups/xdag.zip -d "./xdag/cheatcoin/"
+cd
+Copy and paste the following into console (right click on putty is paste)
+//Script 1
+cat << 'EOD' > ./xdag_console.sh
+#!/bin/bash
+
+pidof xdag > /dev/null
+
+if [ "$?" -ne 0 ]; then
+	echo "Daemon not running! Start it with ./xdag_run.sh"
+	exit 1
+fi
+
+echo Starting console...
+(cd ./xdag/cheatcoin && TZ=GMT ./xdag -i)
+echo -n "Daemon PIDs: "
+pidof xdag
+EOD
+
+//Script 2
+cat << 'EOD' > ./xdag_run.sh
+#!/bin/bash
+
+PIDS="`pidof xdag`"
+
+if [ "$?" -eq 0 ]; then
+	echo "Daemon already running? PIDs: ${PIDS}"
+	echo "run ./xdag_console.sh and type 'terminate' to terminate the daemon."
+	exit 1
+fi
+
+echo Starting daemon...
+(cd ./xdag/cheatcoin && TZ=GMT ./xdag -d -m 8 pool.xdagpool.com:13654)
+echo -n "Daemon PIDs: "
+pidof xdag
+EOD
+
+
+//Script 3
+cat << 'EOD' > ./xdag_update.sh
+#!/bin/bash
+
+PIDS="`pidof xdag`"
+
+if [ "$?" -eq 0 ]; then
+	echo "Daemon is running! Stop it before recompiling. PIDs: ${PIDS}"
+	echo "run ./xdag_console.sh and type 'terminate' to terminate the daemon."
+exit 1
+fi
+
+echo Updating git repository...
+(cd ./xdag && git pull && cd ./cheatcoin && make)
+
+echo "Done! Start the daemon with ./xdag_run.sh"
+EOD
+
+//END OF SCRIPTS
+
+chmod +x xdag_*
+
+//END OF INSTALLATION
+
+//RUNNING MINER
+cd
+./xdag_run.sh
+//<ENTER PASSWORD>
+./xdag_console.sh
+//type help for commands
+//	stats - hashing speed
+//	state - check if connected to pool
+//	account - wallet balance
+//	terminate - closes miner
+//	exit - sends you back to main directory (doesnt close miner program)
+		just retype ./xdag_console.sh to get back
+
+//TO UPDATE
+//	IF MINER RUNNING - Open ./xdag_console.sh and enter terminate
+//	./xdag_update.sh
+//	(AFTER UPDATE JUST REENTER xdag_run.sh)
+
+
+
+
+first project
+{E-17[iT*@F]EF%
+project 2
++LfZTy~U8C&p}(;
+pros3
+0[/kEG*Y|w!9Jj(
+
+MEW
+c2da80ba106d24727B215E6BcdB767311e17F193
